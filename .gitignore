@@ -1,0 +1,8 @@
+.idea/
+
+data/
+secrets.py
+.ipynb_checkpoints/
+__pycache__
+ScapeLyrics.py
+combineCSV.py

@@ -1,0 +1,5 @@
+BeautifulSoup4==4.6.0
+html5lib==1.0.1
+unidecode==1.0.22
+unicodecsv==0.14.1
+pandas==0.22.0
