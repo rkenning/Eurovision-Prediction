@@ -5,3 +5,4 @@ unicodecsv==0.14.1
 pandas==0.22.0
 scikit-learn==0.19.1
 numpy==2.7.9
+TextBlob==0.15.1
